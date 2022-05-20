@@ -17,6 +17,7 @@ git submodule add https://github.com/GabrielAlvesFS/Kindelia-class.git gabriel-a
 
 ### Beeing validated
 * Git clone your project
-* Answer the exercises on folder ...
+* Answer the exercises on folder **Solutions**
+* More info on [Kindelia/class#readme](https://github.com/Kindelia/class#readme)
 
 

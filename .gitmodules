@@ -37,12 +37,12 @@
 [submodule "Daniel-Caldas"]
 	path = Daniel-Caldas
 	url = https://github.com/caldasdani/class.git
-[submodule "braien-machado"]
-	path = braien-machado
-	url = https://github.com/braien-machado/kindelia-class.git
 [submodule "lucas-lucena"]
 	path = lucas-lucena
 	url = https://github.com/lucas-lucena/class
 [submodule "ian-zimmermann"]
 	path = ian-zimmermann
 	url = https://github.com/ianmzimmermann/class.git
+[submodule "braien-machado"]
+	path = braien-machado
+	url = https://github.com/braien-machado/kindelia-class.git
