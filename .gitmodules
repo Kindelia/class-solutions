@@ -13,9 +13,6 @@
 [submodule "Hyago-Fellipe"]
 	path = Hyago-Fellipe
 	url = https://github.com/HyagoFellipee/class.git
-[submodule "nicolas-abril"]
-	path = nicolas-abril
-	url = https://gitlab.com/nicolasabril/kind-class.git
 [submodule "nathanael-ribeiro"]
 	path = nathanael-ribeiro
 	url = https://github.com/ribeirotomas1904/class.git
@@ -46,3 +43,6 @@
 [submodule "braien-machado"]
 	path = braien-machado
 	url = https://github.com/braien-machado/kindelia-class.git
+[submodule "nicolas-abril"]
+	path = nicolas-abril
+	url = https://github.com/developedby/class.git
