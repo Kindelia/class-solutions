@@ -46,3 +46,15 @@
 [submodule "nicolas-abril"]
 	path = nicolas-abril
 	url = https://github.com/developedby/class.git
+[submodule "Henrique-Lima"]
+	path = Henrique-Lima
+	url = https://github.com/Henrikenzie/class.git
+	branch = main
+[submodule "savioscmendes"]
+	path = savioscmendes
+	url = https://github.com/savioscmendes/SKFTsClass.git
+	branch = main
+[submodule "thefamousmani1"]
+	path = thefamousmani1
+	url = https://github.com/thefamousmani1/mani1class.git
+	branch = main
