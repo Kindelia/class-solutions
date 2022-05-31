@@ -62,3 +62,7 @@
 	path = sergio-bonatto
 	url = https://github.com/SergioBonatto/class.git
 	branch = main
+[submodule "cristiano-camacho"]
+	path = cristiano-camacho
+	url = https://github.com/CristianoSword/class.git
+	branch = main
