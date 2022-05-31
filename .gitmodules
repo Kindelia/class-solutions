@@ -66,3 +66,7 @@
 	path = cristiano-camacho
 	url = https://github.com/CristianoSword/class.git
 	branch = main
+[submodule "eduardo-zborowski"]
+	path = eduardo-zborowski
+	url = https://github.com/eduardozborowski/class.git
+	branch = main
