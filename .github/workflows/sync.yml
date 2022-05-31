@@ -1,0 +1,22 @@
+
+name: bi-hourly sync
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: 0,30 * * * *
+
+jobs:
+  sync_solutions:
+    name: Sync Solutions
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+
+      - name: Download last versions
+        run: sh ./update.sh 
+
+      - name: Commit and push modifications
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Sync solutions

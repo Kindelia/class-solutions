@@ -1,48 +1,59 @@
 [submodule "gabriel-alves"]
 	path = gabriel-alves
 	url = https://github.com/GabrielAlvesFS/Kindelia-class.git
+	branch = main
 [submodule "Henrique-Godoy"]
 	path = Henrique-Godoy
 	url = https://github.com/herniqeu/class.git
-[submodule "sergio-bonatto"]
-	path = sergio-bonatto
-	url = https://github.com/SergioBonatto/class.git
+	branch = main
 [submodule "eduardo-tavares"]
 	path = eduardo-tavares
 	url = https://github.com/edumt/class.git
+	branch = main
 [submodule "Hyago-Fellipe"]
 	path = Hyago-Fellipe
 	url = https://github.com/HyagoFellipee/class.git
+	branch = main
 [submodule "nathanael-ribeiro"]
 	path = nathanael-ribeiro
 	url = https://github.com/ribeirotomas1904/class.git
+	branch = main
 [submodule "natan-rdias"]
 	path = natan-rdias
 	url = https://github.com/Nrdias/class.git
+	branch = main
 [submodule "rafael-santos"]
 	path = rafael-santos
 	url = https://github.com/rafaelnsantos/class.git
+	branch = main
 [submodule "Adriano-Augusto"]
 	path = Adriano-Augusto
 	url = https://github.com/AdrianoAugustoM/class.git
+	branch = main
 [submodule "luiz-medina"]
 	path = luiz-medina
 	url = https://github.com/TheMhv/Kindelia-class.git
+	branch = main
 [submodule "paulovitor-oliveira"]
 	path = paulovitor-oliveira
 	url = https://github.com/Vittorr/class.git
+	branch = main
 [submodule "Daniel-Caldas"]
 	path = Daniel-Caldas
 	url = https://github.com/caldasdani/class.git
+	branch = main
 [submodule "lucas-lucena"]
 	path = lucas-lucena
 	url = https://github.com/lucas-lucena/class
+	branch = main
 [submodule "ian-zimmermann"]
 	path = ian-zimmermann
 	url = https://github.com/ianmzimmermann/class.git
+	branch = main
 [submodule "braien-machado"]
 	path = braien-machado
 	url = https://github.com/braien-machado/kindelia-class.git
+	branch = main
 [submodule "nicolas-abril"]
 	path = nicolas-abril
 	url = https://github.com/developedby/class.git
@@ -57,4 +68,20 @@
 [submodule "thefamousmani1"]
 	path = thefamousmani1
 	url = https://github.com/thefamousmani1/mani1class.git
+	branch = main
+[submodule "sergio-bonatto"]
+	path = sergio-bonatto
+	url = https://github.com/SergioBonatto/class.git
+	branch = main
+[submodule "cristiano-camacho"]
+	path = cristiano-camacho
+	url = https://github.com/CristianoSword/class.git
+	branch = main
+[submodule "eduardo-zborowski"]
+	path = eduardo-zborowski
+	url = https://github.com/eduardozborowski/class.git
+	branch = main
+[submodule "joao-lucas"]
+	path = joao-lucas
+	url = https://github.com/SteelyChico/class.git
 	branch = main
