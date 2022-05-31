@@ -70,3 +70,7 @@
 	path = eduardo-zborowski
 	url = https://github.com/eduardozborowski/class.git
 	branch = main
+[submodule "joao-lucas"]
+	path = joao-lucas
+	url = https://github.com/SteelyChico/class.git
+	branch = main
